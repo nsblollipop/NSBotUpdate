@@ -117,6 +117,7 @@
         "IMAGE_REALM_EMPTY_TICKET2": "./screenshots/RealmRaid/empty2.png",
         "IMAGE_REALM_EMPTY_TICKET2CN": "./screenshots/RealmRaid/empty2cn.png",
         "IMAGE_REALM_CLOSE": "./screenshots/RealmRaid/close.png",
+        "IMAGE_REALM_GRAIDCOUNT_CN": "./screenshots/RealmRaid/guildraidcountcn.png",
         "IMAGE_REALM_GRAIDCOUNT": "./screenshots/RealmRaid/guildraidcount.png"
     },
     "EVENT": {
