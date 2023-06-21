@@ -122,7 +122,9 @@
     },
     "EVENT": {
         "IMAGE_EVENT_START": "./screenshots/Event/evstart.png",
+        "IMAGE_EVENT_START2": "./screenshots/Event/evstart2.png",
         "IMAGE_EVENT_END": "./screenshots/Event/evend.png",
+        "IMAGE_EVENT_END2": "./screenshots/Event/evend2.png",
         "IMAGE_EVENT_LOCK": "./screenshots/Event/ev_lineup_lock.png"
     }
   }
