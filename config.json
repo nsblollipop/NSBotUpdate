@@ -8,6 +8,8 @@
         "IMAGE_FAILED_PATH": "./screenshots/Default/failed.png",
         "IMAGE_BUFFCN": "./screenshots/Default/buffcn.png",
         "IMAGE_BUFF": "./screenshots/Default/buff.png",
+        "IMAGE_BACK": "./screenshots/Default/back.png",
+        "IMAGE_BACK2": "./screenshots/Default/back2.png",
         "IMAGE_EMPTY_SUSHI": "./screenshots/Default/emptyshshi.png"
     },
     "SOUL": {
