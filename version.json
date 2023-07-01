@@ -1,4 +1,4 @@
-{"version": "1.1.4", 
+{"version": "1.1.5", 
 "eventtext": "Event:Kujaku Myoo", 
 "changelog": "※ Screenshot เมื่อตรวจพบ co-op Quest (ดูรูปได้ในโฟลเดอร์ 'คนเหลี่ยมๆ')\n※ ปรับปรุงบางส่วนของ UI หลัก\n※ ปิดใช้งาน Screen saver (การพักหน้าจอ) เพื่อป้องการบอทหยุดทำงาน\n     •ปิดใช้งาน ScreenSaver เฉพาะตอนที่บอทกำลังทำงาน\n     •เมื่อบอทหยุด เปิดใช้งาน ScreenSaver เหมือนเดิม"
 }
