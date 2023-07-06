@@ -132,5 +132,11 @@
         "IMAGE_EVENT_ATT": "./screenshots/Event/att.png",
         "IMAGE_EVENT_TARGET": "./screenshots/Event/target.png",
         "IMAGE_EVENT_TARGET2": "./screenshots/Event/target2.png"
+    },
+    "BONDLING": {
+        "IMAGE_BONDLING_BONDLING": "./screenshots/Bondling/bondling.png",
+        "IMAGE_BONDLING_EXPDETECT": "./screenshots/Bondling/exploredetect.png",
+        "IMAGE_BONDLING_INFO": "./screenshots/Bondling/info.png",
+        "IMAGE_BONDLING_PACT": "./screenshots/Bondling/pact.png"
     }
   }
