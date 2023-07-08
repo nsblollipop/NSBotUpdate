@@ -1,4 +1,4 @@
-{"version":"1.1.8build6",
+{"version":"1.1.8build7",
 "eventtext":"Event",
 "roundoption":"0",
-"changelog":"※ รองรับโหมด Bondling Fairyland\n※ ปรับปรุง layout ของ UI หลักบางส่วน\n\n"}
+"changelog":"※ รองรับโหมด Bondling Fairyland\n※ ปรับปรุง layout ของ UI หลักบางส่วน\n※ แก้ไขการแจ้งเตือน Co-op Quest ให้อยู่กึ่งกลาง UI หลัก / Active UI ขึ้นมาด้านบน\n※ ปรับปรุงออโต้คลิกโหมด Bondling Fairyland บางส่วน\n"}
