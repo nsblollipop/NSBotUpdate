@@ -9,6 +9,7 @@
         "IMAGE_BUFFCN": "./screenshots/Default/buffcn.png",
         "IMAGE_BUFF": "./screenshots/Default/buff.png",
         "IMAGE_MAIL": "./screenshots/Default/mail.png",
+        "IMAGE_ROOM_BACK": "./screenshots/Default/roomback.png",
         "IMAGE_BACK": "./screenshots/Default/back.png",
         "IMAGE_BACK2": "./screenshots/Default/back2.png",
         "IMAGE_EMPTY_SUSHI": "./screenshots/Default/emptyshshi.png"
@@ -138,6 +139,6 @@
         "IMAGE_BONDLING_EXPDETECT": "./screenshots/Bondling/exploredetect.png",
         "IMAGE_BONDLING_INFO": "./screenshots/Bondling/info.png",
         "IMAGE_BONDLING_PACT": "./screenshots/Bondling/pact.png",
-        "IMAGE_BONDLING_PACT2": "./screenshots/Bondling/pact2.png"
+        "IMAGE_BONDLING_PACT2": "./screenshots/Bondling/pact.png"
     }
   }
