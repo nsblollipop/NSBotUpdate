@@ -1,4 +1,12 @@
-{"version":"1.1.8build15",
-"eventtext":"Event",
-"roundoption":"0",
-"changelog":"※ รองรับโหมด Bondling Fairyland\n※ ปรับปรุง layout ของ UI หลักบางส่วน\n※ แก้ไขการแจ้งเตือน Co-op Quest ให้อยู่กึ่งกลาง UI หลัก / Active UI ขึ้นมาด้านบน\n※ ปรับปรุงออโต้คลิกโหมด Bondling Fairyland บางส่วน\n※ แก้ไขปัญหาบอทเอ๋อ เมื่อโดนส่ง Co-op Quest ขณะทำงานใน Loop Getting reward\n"}
+{
+  "version": "1.1.9",
+  "eventtext": "Event",
+  "roundoption": "keep",
+  "theme": "system",
+  "disc": "1",
+  "tomb": true,
+  "snowball": true,
+  "azure": true,
+  "kuro": true,
+  "changelog": "※ สามารถตั้งค่า Dark และ Light Theme ได้แล้ว\n※ แก้ไขให้ เมื่อหน้าต่างเกมไม่มีอยู่ ให้บอทตีความว่าเสร็จสิ้นการทำงาน\n※ แก้ไขให้ บอทควรปิดตัวเอง เมื่อ Idle Detect = 900 (10 - 20 นาที)\n※ Bondling Fairyland : หยุดการทำงาน เมื่อตรวจพบหน้าต่างแจ้งเตือน\n※ Bondling Fairyland : สามารถตั้งค่า Disc และ สัตว์ที่ต้องการจับ ได้\n※ แก้ไขให้ตัวติดตั้งอัพเดท บันทึกค่า Config เดิมไว้ เมื่อมีการอัพเดท"
+}

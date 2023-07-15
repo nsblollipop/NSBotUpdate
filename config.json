@@ -137,8 +137,14 @@
     "BONDLING": {
         "IMAGE_BONDLING_BONDLING": "./screenshots/Bondling/bondling.png",
         "IMAGE_BONDLING_EXPDETECT": "./screenshots/Bondling/exploredetect.png",
+        "IMAGE_BONDLING_PACTSETTINGS": "./screenshots/Bondling/pactsettings.png",
         "IMAGE_BONDLING_INFO": "./screenshots/Bondling/info.png",
-        "IMAGE_BONDLING_PACT": "./screenshots/Bondling/pact.png",
-        "IMAGE_BONDLING_PACT2": "./screenshots/Bondling/pact.png"
+        "IMAGE_BONDLING_BRUSH": "./screenshots/Bondling/brush.png",
+        "IMAGE_BONDLING_SUMMON": "./screenshots/Bondling/summon.png",
+        "IMAGE_BONDLING_KUROFACE": "./screenshots/Bondling/kuroface.png",
+        "IMAGE_BONDLING_PACT1": "./screenshots/Bondling/pact1.png",
+        "IMAGE_BONDLING_PACT2": "./screenshots/Bondling/pact2.png",
+        "IMAGE_BONDLING_PACT3": "./screenshots/Bondling/pact3.png",
+        "IMAGE_BONDLING_PACT4": "./screenshots/Bondling/pact4.png"
     }
   }
