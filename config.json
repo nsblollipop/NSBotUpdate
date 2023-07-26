@@ -110,7 +110,7 @@
         "IMAGE_REALM_SECTIONFROG_PATH": "./screenshots/RealmRaid/frogsection.png",
         "IMAGE_REALM_KO_PATH": "./screenshots/RealmRaid/ko2.png",
         "IMAGE_REALM_3RAID_PATH": "./screenshots/RealmRaid/3raid.png",
-        "IMAGE_REALM_3RAID1_PATH": "./screenshots/RealmRaid/3raid1.png",
+        "IMAGE_REALM_3RAIDFROG_PATH": "./screenshots/RealmRaid/3raidfrog.png",
         "IMAGE_REALM_3RAID2_PATH": "./screenshots/RealmRaid/3raid2.png",
         "IMAGE_REALM_GUILDEMPTY_PATH": "./screenshots/RealmRaid/guildempty.png",
         "IMAGE_REALM_GUILDSCROLL_PATH": "./screenshots/RealmRaid/guildscroll.png",

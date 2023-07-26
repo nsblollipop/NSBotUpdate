@@ -1,5 +1,5 @@
 {
-  "version": "1.1.9build2",
+  "version": "1.2.0",
   "eventtext": "Event",
   "roundoption": "keep",
   "theme": "system",
@@ -8,5 +8,5 @@
   "snowball": true,
   "azure": true,
   "kuro": true,
-  "changelog": "※ สามารถตั้งค่า Dark และ Light Theme ได้แล้ว\n※ แก้ไขให้ เมื่อหน้าต่างเกมไม่มีอยู่ ให้บอทตีความว่าเสร็จสิ้นการทำงาน\n※ แก้ไขให้ บอทควรปิดตัวเอง เมื่อ Idle Detect = 900 (10 - 20 นาที)\n※ Bondling Fairyland : หยุดการทำงาน เมื่อตรวจพบหน้าต่างแจ้งเตือน\n※ Bondling Fairyland : สามารถตั้งค่า Disc และ สัตว์ที่ต้องการจับ ได้\n※ แก้ไขให้ตัวติดตั้งอัพเดท บันทึกค่า Config เดิมไว้ เมื่อมีการอัพเดท"
+  "changelog": "※ ปรับปรุงประสิทธิภาพฟังก์ชัน Scroll ใน GuildRealmRaid\n※ แก้ไขให้บอทเลือกตีเขตกบก่อน (ถ้าเจอ)\n※ แก้ไขให้ บอทปิดตัวเอง เมื่อ Idle Detect = 1200 (15 - 25 นาที ขึ้นอยู่กับโหมด)\n※ นำ CheckBox:ConsoleLog ออก และเพิ่มการบันทึกไฟล์ log แทน"
 }
