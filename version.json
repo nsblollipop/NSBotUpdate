@@ -1,5 +1,5 @@
 {
-  "version": "1.2.2build3",
+  "version": "1.2.3",
   "eventtext": "Event",
   "roundoption": "keep",
   "theme": "system",
@@ -8,5 +8,5 @@
   "snowball": true,
   "azure": true,
   "kuro": true,
-  "changelog": "※ แก้บอทโง่ตอนตีเขต\n※ ปรับปรุงประสิทธิภาพฟังก์ชัน Scroll ใน GuildRealmRaid\n※ แก้ไขให้บอทเลือกตีเขตกบก่อน (ถ้าเจอ)\n※ แก้ไขให้ บอทปิดตัวเอง เมื่อ Idle Detect = 1200 (15 - 25 นาที ขึ้นอยู่กับโหมด)\n※ นำ CheckBox:ConsoleLog ออก และเพิ่มการบันทึกไฟล์ log แทน"
+  "changelog": "※ เพิ่มตัวเลือกในการรับ Wanted Quest (requested by บอม)\n※ เปลี่ยนรูปภาพของปุ่ม Refresh(เวอร์ชัน CN Server) ใน Realm Raid Mode\n※ ย้ายตัวเลือก Round Option ไปยังแท็บ Settings"
 }
