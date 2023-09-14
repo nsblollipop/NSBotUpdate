@@ -141,6 +141,7 @@
     "IMAGE_EVENT_END": "./screenshots/Event/evend.png",
     "IMAGE_EVENT_END2": "./screenshots/Event/evend2.png",
     "IMAGE_EVENT_LOCK": "./screenshots/Event/ev_lineup_lock.png",
+    "IMAGE_EVENT_LOCKED": "./screenshots/Event/ev_lineup_locked.png",
     "IMAGE_EVENT_ATT": "./screenshots/Event/att.png",
     "IMAGE_EVENT_TARGET": "./screenshots/Event/target.png",
     "IMAGE_EVENT_TARGET2": "./screenshots/Event/target2.png"
