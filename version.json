@@ -1,5 +1,5 @@
 {
-  "version": "1.2.4build4",
+  "version": "1.2.5",
   "eventtext": "Event",
   "roundoption": "keep",
   "theme": "system",
@@ -8,5 +8,6 @@
   "snowball": true,
   "azure": true,
   "kuro": true,
-  "changelog": "※ [Event] แก้ไขการ Detect รูปจากปุ่ม Start เป็นปุ่มล็อคทีม (*ไม่ต้องเปลี่ยนรูปบ่อย) \n※ แก้ไขให้บันทึกค่า Config ของ Wanted Quest Option ทุกครั้งที่กดปุ่ม Start\n    ( หากเปิดบอทมากกว่า 1 จอ แนะนำให้เว้นระยะ ก่อนกด Start จากจอก่อนหน้า 3 วิ)\n※ เพิ่มการแจ้งเตือน เมื่อบอทดำเนินการเสร็จ (Windows 10, 11)\n※ ปรับปรุงประสิทธิภาพ UI"
+  "changelog": "※ แก้ไขข้อผิดพลาดการแจ้งเตือนเมื่อเสร็จสิ้น แจ้งเตือนซ้ำ 2 ครั้ง\n※ ปรับปรุงประสิทธิภาพ UI",
+  "notify": true
 }
