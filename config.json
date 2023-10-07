@@ -1,9 +1,9 @@
 {
   "VALUE": {
-    "WQ_JADE": true,
-    "WQ_COIN": true,
-    "WQ_SUSHI": true,
-    "WQ_FOOD": true
+    "WQ_JADE": false,
+    "WQ_COIN": false,
+    "WQ_SUSHI": false,
+    "WQ_FOOD": false
   },
   "DEFAULT": {
     "IMAGE_FINISHED0_PATH": "./screenshots/Default/finished0.png",
@@ -66,6 +66,7 @@
     "IMAGE_REALM_REFRESH_PATH": "./screenshots/RealmRaid/refreshcn.png",
     "IMAGE_REALM_GUILD_PATH": "./screenshots/RealmRaid/guildcn.png",
     "IMAGE_REALM_CANCEL": "./screenshots/RealmRaid/cancelcn.png",
+    "IMAGE_REALM_CANCEL_BATTLE": "./screenshots/RealmRaid/cancelcn.png",
     "IMAGE_BUFF": "./screenshots/Default/buffcn.png"
   },
   "GB": {
@@ -88,6 +89,7 @@
     "IMAGE_REALM_REFRESH_PATH": "./screenshots/RealmRaid/refresh.png",
     "IMAGE_REALM_GUILD_PATH": "./screenshots/RealmRaid/guild.png",
     "IMAGE_REALM_CANCEL": "./screenshots/RealmRaid/cancel.png",
+    "IMAGE_REALM_CANCEL_BATTLE": "./screenshots/RealmRaid/cancelbattle.png",
     "IMAGE_BUFF": "./screenshots/Default/buff.png"
   },
   "JP": {
@@ -110,6 +112,7 @@
     "IMAGE_REALM_REFRESH_PATH": "./screenshots/RealmRaid/refreshjp.png",
     "IMAGE_REALM_GUILD_PATH": "./screenshots/RealmRaid/guildjp.png",
     "IMAGE_REALM_CANCEL": "./screenshots/RealmRaid/canceljp.png",
+    "IMAGE_REALM_CANCEL_BATTLE": "./screenshots/RealmRaid/cancelbattlejp.png",
     "IMAGE_BUFF": "./screenshots/Default/buff.png"
   },
   "REALM": {
