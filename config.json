@@ -129,6 +129,7 @@
     "IMAGE_REALM_GUILDEMPTY_PATH": "./screenshots/RealmRaid/guildempty.png",
     "IMAGE_REALM_GUILDSCROLL_PATH": "./screenshots/RealmRaid/guildscroll.png",
     "IMAGE_REALM_GUILDPAGEEND_PATH": "./screenshots/RealmRaid/guildpageend.png",
+    "IMAGE_REALM_GUILDPAGEEND_TOP_PATH": "./screenshots/RealmRaid/guildpageendtop.png",
     "IMAGE_REALM_PROFILE_PATH": "./screenshots/RealmRaid/profile.png",
     "IMAGE_REALM_LOCK_PATH": "./screenshots/RealmRaid/lock.png",
     "IMAGE_REALM_EMPTY_TICKET1": "./screenshots/RealmRaid/empty1.png",
