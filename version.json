@@ -8,6 +8,6 @@
   "snowball": true,
   "azure": true,
   "kuro": true,
-  "changelog": "※ แก้ไขตำแหน่งของการคลิกปุ่ม Start ในโหมด Event ในเฟสตีบอส\n※ แก้ไขปัญหาบอทเอ๋อ/อยู่เฉยๆ ตอนตีเขต ในโหมด Explore/Realm",
+  "changelog": "※ แก้ไขตำแหน่งของการคลิกปุ่ม Start ของโหมด Event ในเฟสตีบอส\n※ แก้ไขปัญหาบอทเอ๋อ/อยู่เฉยๆ ตอนตีเขต ในโหมด Explore/Realm",
   "notify": true
 }
