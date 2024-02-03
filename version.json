@@ -1,5 +1,5 @@
 {
-  "version": "1.2.5build11",
+  "version": "1.2.5build13",
   "eventtext": "Event",
   "roundoption": "keep",
   "theme": "system",
@@ -8,6 +8,6 @@
   "snowball": true,
   "azure": true,
   "kuro": true,
-  "changelog": "※ แก้ไขตำแหน่งของการคลิกปุ่ม Start ของโหมด Event ในเฟสตีบอส\n※ แก้ไขปัญหาบอทเอ๋อ/อยู่เฉยๆ ตอนตีเขต ในโหมด Explore/Realm",
+  "changelog": "※ แก้ไขชื่อหน้าต่างเกม ให้เป็นเวอร์ชันล่าสุด 'Onmyoji' > '陰陽師Onmyoji'\n※ เพิ่ม Delay ในการค้นหารูปภาพ และเพิ่มฟังก์ชันให้สามารถปรับแก้ค่า Delay เองได้\n※ แก้ไขการบันทึก Config ให้บันทึกค่า Wanted Quest และ Find Image Delay",
   "notify": true
 }
